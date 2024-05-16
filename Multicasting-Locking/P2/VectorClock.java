@@ -88,7 +88,7 @@ class Function extends Thread {
 }
 
 // Main class
-public class Main {
+public class VectorClock {
     public static void main(String[] args) {
         String server = "localhost"; // Server address
         int destn = 4444; // Destination port
