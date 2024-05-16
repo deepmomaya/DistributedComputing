@@ -118,7 +118,7 @@ class Function extends Thread {
     }
 }
 
-public class Main {
+public class Locking {
     public static void main(String[] args) {
         // Configuration parameters
         int port = 4444;
